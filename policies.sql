@@ -1,0 +1,2 @@
+-- Policies are included in schema.sql so setup is one-step.
+-- Run schema.sql first. Review all policies before production deployment.
